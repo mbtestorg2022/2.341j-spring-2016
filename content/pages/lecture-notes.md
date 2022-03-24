@@ -14,7 +14,7 @@ Topics and selected lecture slides are provided below. Additional lecture notes 
 
 Topic 4: Linear Viscoelasticity (Sessions 9–11: Notes are currently unavailable.)
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Topic 5: Polymer Physics: Gaussian Chains and Entropic Elasticity (Sessions 12–13) (PDF - 3.1MB)]({{< baseurl >}}/resources/mit2_341js16_lec13-slides)
+[Topic 5: Polymer Physics: Gaussian Chains and Entropic Elasticity (Sessions 12–13) (PDF - 3.1MB)]({{< baseurl >}}/resources/mit2_341js16_lec13-slides)
 
 Topic 6: Ordered Fluid Expansions (Sessions 14–15: Notes are currently unavailable.)
 

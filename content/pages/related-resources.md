@@ -8,7 +8,7 @@ _General_
 
 Reiner, M. "[The Deborah Number](http://scitation.aip.org/content/aip/magazine/physicstoday/article/17/1/10.1063/1.3051374)." _Physics Today_ 17, no. 1 (1964): 62.
 
-Dealy, John M. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Weissenberg and Deborah Numbers Their Definition and Use." (PDF - 2.9MB)](https://www.rheology.org/sor/Publications/RheoBulletin/RB2010Jul.pdf) _Rheology Bulletin_ 79, no. 2 (2010).
+Dealy, John M. ["Weissenberg and Deborah Numbers Their Definition and Use." (PDF - 2.9MB)](https://www.rheology.org/sor/Publications/RheoBulletin/RB2010Jul.pdf) _Rheology Bulletin_ 79, no. 2 (2010).
 
 Bilmes, L. "The Rheological Chart." _Nature_ 150 (1942): 432–33.
 
@@ -22,7 +22,7 @@ _Generalized Newtonian Fluids_
 
 Wagner, N. J., and J. F. Brady. "[Shear-Thickening in Colloidal Dispersions](http://scitation.aip.org/content/aip/magazine/physicstoday/article/62/10/10.1063/1.3248476)." _Physics Today_ 62, no. 10 (2009): 27.
 
-Bingham, E. C. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["An Investigation of the Laws of Plastic Flow." (PDF - 3.9MB)](http://nvlpubs.nist.gov/nistpubs/bulletin/13/nbsbulletinv13n2p309_A2b.pdf).
+Bingham, E. C. ["An Investigation of the Laws of Plastic Flow." (PDF - 3.9MB)](http://nvlpubs.nist.gov/nistpubs/bulletin/13/nbsbulletinv13n2p309_A2b.pdf).
 
 Balmforth, Frigaard, et al. "[Yielding to Stress: Recent Developments in Viscoplastic Fluid Mechanics](http://dx.doi.org/10.1146/annurev-fluid-010313-141424)." _Annual Review of Fluid Mechanics_ 46 (2014): 121–46.
 
@@ -36,9 +36,9 @@ _Polymer Physics: Gaussian Chains and Entopic Elasticity_
 
 Rubinstein, M., and R. H. Colby. Chapter 8 in _Polymer Physics_. Oxford University Press, 2003. ISBN: 9780198520597.
 
-Chandrasekhar, S. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Stochastic Processes in Physics and Astronomy." (PDF - 10.9MB)](http://facultystaff.richmond.edu/~olipan/Chandrashekhar.pdf) _Reviews of Modern Physics_ 15, no. 1 (1943).
+Chandrasekhar, S. ["Stochastic Processes in Physics and Astronomy." (PDF - 10.9MB)](http://facultystaff.richmond.edu/~olipan/Chandrashekhar.pdf) _Reviews of Modern Physics_ 15, no. 1 (1943).
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Heroes and Highlights in the History of Diffusion (PDF - 1.2MB)](http://www.uni-leipzig.de/diffusion/pdf/volume11/diff_fund_11(2009)1.pdf)
+[Heroes and Highlights in the History of Diffusion (PDF - 1.2MB)](http://www.uni-leipzig.de/diffusion/pdf/volume11/diff_fund_11(2009)1.pdf)
 
 Gennes, Pierre-Gilles de. "[Entangled Polymers](http://dx.doi.org/10.1063/1.2915700)." _Physics Today_ 36, no. 6 (1983): 33.
 
@@ -50,7 +50,7 @@ _Differential Constitutive Equations_
 
 Malkin, A. Ya. "[The State of the Art in the Rheology of Polymers: Achievements and Challenges](http://dx.doi.org/10.1134/S0965545X09010076)." _Polymer Science Series A_ 51, no. 1 (2009): 80–102. (Translated from Russian)
 
-Prakash, J. Ravi. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Micro and Macro in the Dynamics of Dilute Polymer Solution." (PDF - 4.7MB)](http://www.cheric.org/PDF/KARJ/KR21/KR21-4-0245.pdf) _Korea-Australia Rheology Journal_ 21, no. 4 (2009): 245–68.
+Prakash, J. Ravi. ["Micro and Macro in the Dynamics of Dilute Polymer Solution." (PDF - 4.7MB)](http://www.cheric.org/PDF/KARJ/KR21/KR21-4-0245.pdf) _Korea-Australia Rheology Journal_ 21, no. 4 (2009): 245–68.
 
 Videos
 ------
